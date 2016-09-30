@@ -2,7 +2,7 @@
 layout: inicio
 
 title: Alberto
-tagline: albertomorenoacevedo.github.io
+tagline: albertomorenoacevedo.github.io/albertoma
 ---
 ![imagen](foto.jpg)
 
