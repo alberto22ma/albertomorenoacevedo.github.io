@@ -11,9 +11,14 @@ title: Alberto Moreno Acevedo
 
 ## Mis datos
 
-`Nombre:` Alberto Moreno
-`Fecha nacimiento:` 22/04/1994
-`Telefono:` 123456789
+`Nombre:` 
+__Alberto Moreno__
+
+`Fecha nacimiento:` 
+__22/04/1994__
+
+`Telefono:`
+__123456789__
 
 
 ## Estudios
