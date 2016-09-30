@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: micv
 title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno
