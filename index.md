@@ -2,8 +2,9 @@
 layout: inicio
 
 title: Alberto
+tagline: albertoma.github.io
 ---
-
+![imagen](foto.jpg)
 
 ## Bienvenidos
 
