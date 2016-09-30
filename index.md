@@ -7,4 +7,4 @@ title: Alberto
 
 ## Bienvenidos
 
-* [Para saber algo mas sobre mi](/mod)
+* [Para saber algo mas sobre mi](/about)
