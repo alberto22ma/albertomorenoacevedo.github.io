@@ -1,10 +1,10 @@
 ---
-layout: 
+layout: cv
 title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno
 <div id="webaddress">
-<a href="ejemplocorreo@gmail.com">albertomoreno94@gmail.com</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page/a>
 </div>
 
