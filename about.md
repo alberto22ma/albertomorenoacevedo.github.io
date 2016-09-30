@@ -1,5 +1,5 @@
 ---
-layout: micv
+layout: index
 title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno
@@ -15,6 +15,7 @@ title: Alberto Moreno Acevedo
 `Fecha nacimiento:` 22/04/1994
 `Telefono:` 123456789
 /
+
 ## Estudios
 
 `2006-2010`
