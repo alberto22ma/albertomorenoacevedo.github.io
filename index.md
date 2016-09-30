@@ -1,5 +1,5 @@
 ---
-
+layout: index
 
 title: Alberto
 tagline: albertomorenoacevedo.github.io
