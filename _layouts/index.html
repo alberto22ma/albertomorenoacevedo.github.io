@@ -14,33 +14,11 @@
     <div class="container darkbg clearfix">
 	<div id="headercont" class="clearfix">
 		<div id="headerlogo">
-			<h1><a title="" href="">{{page.title}}</a></h1>
+		
 			<h4><a href="">{{page.tagline}}</a></h4>
 		</div>
 		
 	</div>
-</div>
-	  <div class="container lightbluebg clearfix">
-    <div id="menucont" class="clearfix">
-        <div class="menu">
-            <ul>
-
-            	{% assign pmenu = {{site.data.menu|first}} %}
-             {% for m in site.data.menu %}
-
-                {% if pmenu.nombre == {{m.nombre}} %}
-                   {% for me in m.items %}
-
-                          <li><a title="" href="{{me.url}}">{{me.name}}</a></li>
-                {% endfor %}
-                {% endif %}
-
-              {% endfor %}
-
-
-            </ul>
-        </div>
-    </div>
 </div>
   </body>
 </html>
