@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: inicio
 
 title: Alberto
 ---
