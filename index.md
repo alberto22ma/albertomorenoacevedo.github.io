@@ -1,5 +1,5 @@
 ---
-layout: inicio
+
 
 title: Alberto
 tagline: albertomorenoacevedo.github.io
