@@ -7,6 +7,10 @@ body{
 	width:1080px;
 	height:auto;
 }
+h1{
+	text-align: center;
+	color: blue;
+}
 article{
 	background-color:rgb(212, 214, 237);
 	float:center;
