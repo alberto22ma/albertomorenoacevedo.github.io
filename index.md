@@ -6,14 +6,9 @@ tagline: albertomorenoacevedo.github.io
 ---
 #### Alberto Moreno
 
-![imagen](foto.jpg)
+<p align=center>![imagen](foto.jpg)
 
-  <styles>
-  p{
-    text-align: center;
-    color: red;
-  }
-  </styles>
+ 
   
 
   <p class="para1">Hello World!</p>
