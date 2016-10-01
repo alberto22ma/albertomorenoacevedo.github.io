@@ -9,7 +9,7 @@ body{
 }
 section.content{
 	background-color:rgb(212, 214, 237);
-	float:left;
+	float:center;
 	width: 72%;
 	margin-top:30px;
 	border:2px solid grey;
