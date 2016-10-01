@@ -7,7 +7,7 @@ body{
 	width:1080px;
 	height:auto;
 }
-section.content{
+.content{
 	background-color:rgb(212, 214, 237);
 	float:center;
 	width: 72%;
