@@ -1,17 +1,20 @@
-
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8"/>
-<link rel="shortcut icon" type="image/png" href="img/euro.png" />
-<link rel="stylesheet" type="text/css" href="inicio.css"/>
-  </head>
 
+  {% include head.html %}
 
   <body>
+      <div class="outer">
+        {% include header.html %}
 
+        <div class="page-content">
+          <div class="wrapper">
             {{ content }}
+          </div>
+        </div>
 
+        
+      </div>
   </body>
   
 </html>
