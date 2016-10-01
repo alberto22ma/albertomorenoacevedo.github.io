@@ -4,12 +4,10 @@
 title: Alberto
 tagline: albertomorenoacevedo.github.io
 ---
-#### Práctica de GitHub
+<p align=center> # Práctica de GitHub
 
-<p align=right>![imagen](foto.jpg) 
-
-#### Bienvenidos
+<p align=center>![imagen](foto.jpg) 
    
-## Practica de GitHub Pages para Implantacion de Aplicaciones Web
+# Practica de GitHub Pages para Implantacion de Aplicaciones Web
 
 * [Para saber algo mas sobre mi](/about)
