@@ -1,16 +1,20 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{{page.title}}</title>
-  </head>
-  <body>
-<h2 id="bienvenids">Bienvenid@s</h2>
 
-<ul>
-  <li><a href="/about">Para saber algo mas de mi, pulsa aqui</a></li>
-</ul>
-<hr />
-    
+  {% include head.html %}
+
+  <body>
+      <div class="outer">
+        {% include header.html %}
+
+        <div class="page-content">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </div>
+
+        {% include footer.html %}
+      </div>
   </body>
+  
 </html>
