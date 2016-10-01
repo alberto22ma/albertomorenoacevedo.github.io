@@ -1,15 +1,15 @@
-<!DOCTYPE html>
+
+<!doctype html>
 <html>
-<head>
-  <title>{{ page.title }}</title>
-   <link href="media/estilos.css" type="text/css" rel="stylesheet" media="estilo">
-</head>
-<body>
-  <h1>IAW</h1>
-  <div>
-    <div class="content">
-      {{ content }}
-    </div>
-  </div>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>{{title}}</title>
+    <link type="text/css" rel="stylesheet" href="{ 'media/estilos.css'}}">
+  </head>
+  <body>
+    <article class="markdown-body">
+      {{~> content}}
+    </article>
+  </body>
 </html>
