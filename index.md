@@ -9,7 +9,7 @@ tagline: albertomorenoacevedo.github.io
 ![imagen](foto.jpg)
 
   <styles>
-  .para1 {
+  p{
     text-align: center;
     color: red;
   }
