@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: index
 title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno
