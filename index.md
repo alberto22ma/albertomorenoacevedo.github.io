@@ -7,11 +7,6 @@ tagline: albertomorenoacevedo.github.io
 #### Alberto Moreno
 
 ![imagen](foto.jpg)
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ page.title }}</title>
-  
 
   <styles>
   .para1 {
@@ -20,17 +15,9 @@ tagline: albertomorenoacevedo.github.io
   }
   </styles>
   
-</head>
-<body>
+
   <p class="para1">Hello World!</p>
-   <h1>ULTIMAS NOTICIAS</h1>
-  <article>
-    <section class="content">
-      {{ content }}
-    </section>
-  </article>
-</body>
-</html>
+   
 ## Bienvenidos
 
 * [Para saber algo mas sobre mi](/about)
