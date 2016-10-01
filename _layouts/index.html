@@ -1,20 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-
-  {% head.html %}
-
-  <body>
-      <div class="outer">
-        {% header.html %}
-
-        <div class="page-content">
-          <div class="wrapper">
-            {{ content }}
-          </div>
-        </div>
-
-        
-      </div>
-  </body>
-  
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
+</head>
+<body>
+  <div id="main">
+    <div id="content">
+    {{ content }}
+    </div>
+  </div>
+</body>
 </html>
