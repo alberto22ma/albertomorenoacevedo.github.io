@@ -6,12 +6,9 @@ tagline: albertomorenoacevedo.github.io
 ---
 #### Práctica de GitHub
 
-<p align=right>![imagen](foto.jpg) ####Bienvenidos
+<p align=right>![imagen](foto.jpg) 
 
- 
-  
-
-  <p class="para1">Hello World!</p>
+#### Bienvenidos
    
 ## Practica de GitHub Pages para Implantacion de Aplicaciones Web
 
