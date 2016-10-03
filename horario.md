@@ -1,5 +1,5 @@
 ---
-
+layout: index
 title: Implantacion de Aplicaciones Web 
 ---
 
