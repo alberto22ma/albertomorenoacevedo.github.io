@@ -6,7 +6,7 @@ tagline: albertomorenoacevedo.github.io
 ---
 # Práctica de GitHub
 
-![imagen](foto.jpg) 
+![imagen](foto1.jpg) 
    
 ## Información
 Esto es una practica realizada sobre GitHub Pages usando Markdown.
