@@ -10,7 +10,10 @@ h1{
 }
 h2{
      text-align: left;
-     color: brown
+     color: brown;
+     font-style: italic;
+     font-family: "Courier New", Times, red serif;
+}
           
 }
 div{
