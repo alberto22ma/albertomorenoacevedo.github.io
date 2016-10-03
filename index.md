@@ -7,7 +7,7 @@ tagline: albertomorenoacevedo.github.io
 # Práctica de GitHub
 
 
-#### [Para saber algo mas sobre mi](/about) | [Ver github de Alberto Moreno](https://github.com/albertomorenoacevedo) | [Mi horario](/horario)
+#### [Mi CV](/about) | [Ver github de Alberto Moreno](https://github.com/albertomorenoacevedo) | [Mi horario](/horario)
 
 
 
