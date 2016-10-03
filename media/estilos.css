@@ -1,16 +1,17 @@
 body{
      background-color: lightblue;
+     text-align: center;
 }
 markdown-body{
      text-align: center;
 }
 h1{
      text-align: center;
-    color: brown;
+    color: yellow;
 }
 h2{
      text-align: left;
-     color: brown;
+     color: red;
      font-style: italic;
      font-family: "Courier New", Times, red serifs;
 }
