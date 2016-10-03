@@ -15,3 +15,5 @@ tagline: albertomorenoacevedo.github.io
 #### [Para saber algo mas sobre mi](/about)
 
 #### [Ver github de Alberto Moreno](https://github.com/albertomorenoacevedo)
+
+#### [Mi horario](/horario)
