@@ -7,15 +7,17 @@ body{
 }
 h1{
      text-align: center;
-    color: yellow;
+    color: browm;
 }
 h2{
      text-align: left;
-     color: red;
+     color: browm;
      font-style: italic;
      font-family: "Courier New", Times, red serifs;
 }
-          
+h5{
+    text-align: left;
+              
 }
 div{
     text-align: center;
