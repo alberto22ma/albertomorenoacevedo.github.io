@@ -16,6 +16,6 @@ title: Implantacion de Aplicaciones Web
 | BBDD          | -             | -             | -             | -              |
 | -             | -             | -             | SAD           | -              |
 |       L       |     I         |      B        |     R         |     E          |
-| IAW           | -             | -             | SAD           | -              |
-| IAW           | BBDD          | BBDD          | BBDD          | IAW            |
-| SAD           | BBDD          | BBDD          | BDDD          | IAW            |
+| IAW           | SAD           | -             | SAD           | -              |
+| IAW           | -             | BBDD          | BBDD          | IAW            |
+| SAD           | -             | BBDD          | BDDD          | IAW            |
