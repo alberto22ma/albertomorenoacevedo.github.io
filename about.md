@@ -4,7 +4,6 @@ title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno
 <div id="webaddress">
-<a href="isaac@applesdofall.org">micorreo@gmai.com</a>
 | <a href="https://albertomorenoacevedo.github.io/">Pagina principal</a>
 </div>
 
