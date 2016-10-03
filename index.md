@@ -9,8 +9,8 @@ tagline: albertomorenoacevedo.github.io
 ![imagen](foto1.jpg) 
    
 ## Información
-##### Esto es una practica realizada sobre GitHub Pages usando Markdown.
+#### Esto es una practica realizada sobre GitHub Pages usando Markdown.
 Implantacion de Aplicaciones Web
 
-##### > [Para saber algo mas sobre mi](/about)
-##### > [Ver github de Alberto Moreno](https://github.com/albertomorenoacevedo)
+#### [Para saber algo mas sobre mi](/about)
+#### [Ver github de Alberto Moreno](https://github.com/albertomorenoacevedo)
