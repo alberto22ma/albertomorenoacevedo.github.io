@@ -1,9 +1,14 @@
 body{
-     Background-color set by using #00FFFF
+     background-color: lightblue;
 }
 h1{
      text-align: center;
     color: brown;
+}
+h2{
+     text-align: left;
+     color: brown
+          
 }
 div{
     text-align: center;
