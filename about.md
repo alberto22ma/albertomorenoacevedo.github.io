@@ -2,9 +2,8 @@
 
 title: Alberto Moreno Acevedo
 ---
-# Alberto Moreno
-<div id="webaddress">
-| <a href="https://albertomorenoacevedo.github.io/">Pagina principal</a>
+# Alberto Moreno <a href="https://albertomorenoacevedo.github.io/">Pagina principal</a>
+<div id="webaddress"> 
 </div>
 
 
