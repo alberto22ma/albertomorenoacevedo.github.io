@@ -1,17 +1,17 @@
 ---
-
 layout: index
-title: Alberto
+
+title: IAW
 tagline: albertomorenoacevedo.github.io
 ---
-# Práctica de GitHub
-
-
-#### [Mi CV](/about) | [Mi horario](/horario)
-
-
-
 ![imagen](foto1.jpg) 
+
+*[Mi CV](/about)
+<hr/>
+
+*[Horario](/horario)
+<hr/>
+
    
 ## Información
 
