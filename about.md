@@ -1,5 +1,5 @@
 ---
-
+layout: index
 title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno 
@@ -11,7 +11,7 @@ title: Alberto Moreno Acevedo
 ## Mis datos
 
 `Nombre:` 
-__Alberto Moreno__
+__Alberto Moreno__                    ![imagen](foto1.jpg) 
 
 `Fecha nacimiento:` 
 __22/04/1994__
