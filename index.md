@@ -4,12 +4,6 @@ layout: index
 title: IAW
 tagline: albertomorenoacevedo.github.io
 ---
-<img>
-
-![imagen](foto1.jpg) 
-
-</img>
-
 * [Mi CV](/about)
 <hr/>
 
@@ -19,6 +13,6 @@ tagline: albertomorenoacevedo.github.io
    
 ## Información
 
-##### Esto es una practica realizada sobre GitHub Pages usando Markdown. Implantacion de Aplicaciones Web
+Esto es una practica realizada por Alberto Moreno Acevedo sobre GitHub Pages usando Markdown. Implantación de Aplicaciones Web
 
 
