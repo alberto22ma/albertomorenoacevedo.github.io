@@ -8,8 +8,6 @@ title: Implantacion de Aplicaciones Web
 </div>
 
 #### Horario Alberto Moreno
-
-
 |  LUNES        | MARTES        | MIERCOLES     | JUEVES        | VIERNES        |
 | ------------- | ------------- | ------------- | ------------- | -------------  | 
 | BBDD          | -             | -             | -             | -              |
