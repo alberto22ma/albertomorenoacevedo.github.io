@@ -4,7 +4,9 @@ layout: index
 title: IAW
 tagline: albertomorenoacevedo.github.io
 ---
+<img>
 ![imagen](foto1.jpg) 
+</img>
 
 *[Mi CV](/about)
 <hr/>
