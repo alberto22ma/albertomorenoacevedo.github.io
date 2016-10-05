@@ -5,13 +5,15 @@ title: IAW
 tagline: albertomorenoacevedo.github.io
 ---
 <img>
+
 ![imagen](foto1.jpg) 
+
 </img>
 
-*[Mi CV](/about)
+* [Mi CV](/about)
 <hr/>
 
-*[Horario](/horario)
+* [Horario](/horario)
 <hr/>
 
    
