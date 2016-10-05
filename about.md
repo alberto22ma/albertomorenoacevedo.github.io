@@ -4,6 +4,8 @@ title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno 
 
+![imagen](images/foto1.jpg) 
+
 <div>
 <a href="https://albertomorenoacevedo.github.io/">Pagina principal</a>
 </div>
@@ -11,7 +13,7 @@ title: Alberto Moreno Acevedo
 ## Mis datos
 
 `Nombre:` 
-__Alberto Moreno__                    ![imagen](foto1.jpg) 
+__Alberto Moreno__                    
 
 `Fecha nacimiento:` 
 __22/04/1994__
