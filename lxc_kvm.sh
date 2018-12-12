@@ -82,7 +82,7 @@ function ComprobarKVM(){
 }
 
 #ram 90%
-    if  [[ $contenedorpostgreslxc_mem -ge '450' ]];
+    if  [[ $contenedorpostgreslxc -ge '450' ]];
     then
         contenedorpostgreslxc_status='sobrepasa limite ram'
         
