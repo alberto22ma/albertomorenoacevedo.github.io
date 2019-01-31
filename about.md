@@ -4,7 +4,8 @@ title: Alberto Moreno Acevedo
 ---
 # Alberto Moreno 
 
-![imagen](images/foto1.jpg) 
+<div><img ![imagen](images/Captura1.png) width="200px" align="right"></div> 
+![imagen](images/Captura1.png) 
 
 <div>
 <a href="https://albertomorenoacevedo.github.io/">Pagina principal</a>
