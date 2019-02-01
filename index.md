@@ -10,6 +10,8 @@ tagline: albertomorenoacevedo.github.io
 * [Horario](/horario)
 <hr/>
 
+* [Experiencia](/experiencia)
+<hr/>
    
 ## Información
 
