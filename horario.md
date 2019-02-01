@@ -9,13 +9,14 @@ title: Implantacion de Aplicaciones Web
 
 #### Horario Alberto Moreno
 
+2º ASIR:
 
 |  LUNES        | MARTES        | MIERCOLES     | JUEVES        | VIERNES        |
 | ------------- | ------------- | ------------- | ------------- | -------------  | 
-| BBDD          | -             | -             | -             | -              |
-| BBDD          | -             | -             | -             | -              |
-| -             | -             | -             | SAD           | -              |
+| ASO           | ASO           | SER           | SER           | SER              |
+| ASO           | ASO           | SER           | SER           | SER              |
+| -             | -             | -             | -             | -              |
 |       L       |     I         |      B        |     R         |     E          |
-| IAW           | SAD           | -             | SAD           | -              |
-| IAW           | -             | BBDD          | BBDD          | IAW            |
-| SAD           | -             | BBDD          | BDDD          | IAW            |
+| -             | -             | -             | -             | -              |
+| -             | GBD           | ASO           | -             | GBD            |
+| HLC           | HLC           | ASO           | HLC           | GBD            |
