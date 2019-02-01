@@ -13,8 +13,8 @@ title: Implantacion de Aplicaciones Web
 
 |  LUNES        | MARTES        | MIERCOLES     | JUEVES        | VIERNES        |
 | ------------- | ------------- | ------------- | ------------- | -------------  | 
-| ASO           | ASO           | SER           | SER           | SER              |
-| ASO           | ASO           | SER           | SER           | SER              |
+| ASO           | ASO           | SER           | SER           | SER            |
+| ASO           | ASO           | SER           | SER           | SER            |
 | -             | -             | -             | -             | -              |
 |       L       |     I         |      B        |     R         |     E          |
 | -             | -             | -             | -             | -              |
