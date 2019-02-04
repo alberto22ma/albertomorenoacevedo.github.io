@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Alberto Moreno Acevedo
+title: Alberto
 ---
 # Alberto Moreno
 
